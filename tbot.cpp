@@ -18,7 +18,7 @@ using json = nlohmann::json;
 using namespace std;
 
 const string baseUrl = "https://api.telegram.org/bot";
-const string token = "5842114288:AAGMs2IbneIU-3BP0YHEfWAzxD_RjrS3wHM";
+const string token = "5842114288:AAGtys2IbneIU-3BPPpHEfWAzxD_RjrSSo3wHM";
 const string chatID[3] = {"1010606030", "5753875677", "6121768286"};
 string static id;
 bool FirstRun = true;
